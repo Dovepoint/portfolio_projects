@@ -7,7 +7,7 @@ The Weather App is a web-based application built using HTML, CSS, and JavaScript
 Users can enter the name of a city.
 Upon submission, the application fetches the current temperature of the specified city from the OpenWeatherMap API.
 The temperature is displayed on the screen.
-If the city is not recognized or there is an error fetching data, an appropriate message is displayed.
+If the city is not recognised or there is an error fetching data, an appropriate message is displayed.
 Setup Instructions
 To run the Weather App locally on your machine, follow these steps:
 
