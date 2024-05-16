@@ -22,3 +22,4 @@ OpenWeatherMap API
 The BMI (Body Mass Index) Calculator is a React-based web application designed to swiftly estimate BMI metrics. Users input their weight (in pounds) and height (in inches) to receive their BMI value along with a corresponding health classification message.
 
 ****
+SQL Database: This repository contains SQL scripts for managing databases, using languages such as SQL for querying and manipulation. Explore the files for database design, data interaction, and analysis.
