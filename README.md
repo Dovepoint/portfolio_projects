@@ -1,4 +1,4 @@
-Welcome to my portfolio! This repository contains the code for my Weather App project, which is a simple web application that allows users to check the current temperature of a city.
+Welcome to my portfolio! This repository contains the code for my various projects, which is a simple web application that allows users to check the current temperature of a city.
 
 
 The Weather App is a web-based application built using HTML, CSS, and JavaScript. It utilizes the OpenWeatherMap API to fetch weather data based on user input.
